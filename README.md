@@ -1,8 +1,8 @@
-# [project short name]
+# [study short name]
 
-Files associated with [project title]. A study examining [goal of project].
+Files associated with [brief study title]. A study examining [goal of study].
 
-* Project title: [project title on proposal or in NRDD]
+* Study title: [study title on proposal or in NRDD]
 
 The structure of this repository is:
 
